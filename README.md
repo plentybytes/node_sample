@@ -1,6 +1,6 @@
 Steps:
 ```
-npm install --save https fs
+npm install
 npx tls-keygen //This will create key.pem and cert.pem for localhost
 node index.js //To start app
 ```
