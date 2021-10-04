@@ -4,6 +4,7 @@ npm install
 npm install -g npx
 npx tls-keygen //This will create key.pem and cert.pem for localhost
 node index.js //To start app
+hit https://localhost:8001
 ```
 
 Ref: 
