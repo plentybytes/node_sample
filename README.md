@@ -1,6 +1,7 @@
 Steps:
 ```
 npm install
+npm istall npx -g
 npx tls-keygen //This will create key.pem and cert.pem for localhost
 node index.js //To start app
 ```
